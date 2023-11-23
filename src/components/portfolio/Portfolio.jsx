@@ -22,7 +22,7 @@ const items = [
     title: "React Project",
     img: "/react.jpeg",
     desc: "This project is a React-based portfolio website that showcases the developer’s skills and projects. The project uses Vite as a build tool and ESLint as a code linter. The project also features some animations and transitions to make the website more interactive and appealing.",
-    link: "https://github.com/ImmanuelYabes/Circle.git",
+    link: "https://github.com/ImmanuelYabes/React-Portfolio.git",
   },
 ];
 
