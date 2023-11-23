@@ -23,6 +23,9 @@ a {
 section {
   height: 100vh;
   scroll-snap-align: center;
+  width: 100vw;
+  scroll-snap-align: center;
+  overflow: hidden;
 }
 
 @mixin mobile {
